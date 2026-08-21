@@ -18,7 +18,12 @@ Packages used in this repository include:
 - library("ecmwfr")         for era5 data query
 - library("terra")          for raster data
 - library("sf")             for vector data
+- library("lubridate")      for date and time column management
+- library("lutz")           for time zone management
 - library("plyr")           for data management
+- library("tidyverse")      for data management
+- library("tigris")         just for tutorial, setting county shapefile for ERA5-Land query
+- library("keyring")        tool used by ecmwfr to store api credentials
 
 ## References
 Reference on data considerations for temperature data in epidemiology studies:
