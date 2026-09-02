@@ -1,6 +1,8 @@
 # PRISM-800m and ERA5-Land Data Query and Linkage
 This repository includes R scripts for the query of PRISM-800m and ERA5-Land temperature data, the aggregation from hourly to daily and annual metrics for ERA5-Land, and the extraction of daily PRISM-800m and annual ERA5-Land metrics to address geocoordinates.
 
+This work utilized data, software, and/or analytical resources developed and disseminated by the Gateway Exposome Coordinating Center (GECC) (https://gatewayexposome.org/). The authors acknowledge GECC for supporting data harmonization, sharing, and reproducible research through its public repositories. GECC resources are available through the GECC GitHub organization (https://github.com/GatewayExposomeCoordinatingCenter) and the GECC Harvard Dataverse repository (https://dataverse.harvard.edu/dataverse/gecc). The Gateway Exposome Coordinating Center is funded by the National Institute of Environmental Health Sciences (NIEHS), under award U24ES035350.
+
 ## Overview
 Separate folders in the repository have been set up to store end-to-end data query and linkage for two temperature datasets commonly used in temperature and health studies. 
 
