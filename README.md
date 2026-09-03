@@ -40,3 +40,16 @@ ECMWFR package reference:
 ERA5-Land reference:
 - J. Muñoz-Sabater, Dutra, E., Agustí-Panareda, A., Albergel, C., Arduini, G., Balsamo, G., Boussetta, S., Choulga, M., Harrigan, S., Hersbach, H., Martens, B., Miralles, D. G., Piles, M., Rodríguez-Fernández, N. J., Zsoter, E., Buontempo, C., and Thépaut, J.-N.: ERA5-Land: A state-of-the-art global reanalysis dataset for land applications, Earth Syst. Sci. Data,13, 4349–4383, 2021. https://doi.org/10.5194/essd-13-4349-2021.
 
+
+
+## Ackowledgement
+If you use any of the resources included in this repository, please include the following language in any documents produced: 
+
+This work utilized data, software, and/or analytical resources developed and disseminated by the Gateway Exposome Coordinating Center (GECC) (https://gatewayexposome.org/). The authors acknowledge GECC for supporting data harmonization, sharing, and reproducible research through its public repositories. GECC resources are available through the GECC GitHub organization (https://github.com/GatewayExposomeCoordinatingCenter) and the GECC Harvard Dataverse repository (https://dataverse.harvard.edu/dataverse/gecc). The Gateway Exposome Coordinating Center is funded by the National Institute of Environmental Health Sciences (NIEHS), under award U24ES035350. Additional support was provided by the National Institute of Aging (R01AG087199-02) and the National Institute of Neurological Disorders and Stroke (R01NS139186) to support PRISM data download and address-level extraction code workflows. 
+
+Please also cite the GECC website: 
+...
+
+
+
+
