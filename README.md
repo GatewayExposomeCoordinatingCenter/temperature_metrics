@@ -49,7 +49,7 @@ If you use any of the resources included in this repository, **please include th
 
 **If using the PRISM code**, please add the following sentence to the above: 
 
-*Additional support was provided by the National Institute of Aging (R01AG087199-01) and the National Institute of Neurological Disorders and Stroke (R01NS139186) to support PRISM data download and address-level extraction code workflows.*
+*Additional support was provided by the National Institute of Aging (R01AG087199-01) and the National Institute of Neurological Disorders and Stroke (R01NS139186) to facilitate PRISM data download and address-level extraction code workflows.*
 
 
 
