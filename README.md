@@ -47,7 +47,7 @@ If you use any of the resources included in this repository, **please include th
 
 *This work used analytical resources developed and disseminated by the Gateway Exposome Coordinating Center (GECC) (https://gatewayexposome.org/). GECC resources are available through the GECC GitHub organization (https://github.com/GatewayExposomeCoordinatingCenter). The GECC is funded by the National Institute on Aging (NIA), under award U24AG088894.*
 
-If using the PRISM plase add the following sentence to the above: 
+**If using the PRISM code**, please add the following sentence to the above: 
 
 *Additional support was provided by the National Institute of Aging (R01AG087199-01) and the National Institute of Neurological Disorders and Stroke (R01NS139186) to support PRISM data download and address-level extraction code workflows.*
 
